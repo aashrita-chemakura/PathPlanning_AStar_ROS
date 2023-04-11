@@ -22,6 +22,7 @@ The code uses the following libraries/modules:
 * time
 * heapq 
 * cv2 
+* rospy
 
 
 ## 3. Setting up the script
