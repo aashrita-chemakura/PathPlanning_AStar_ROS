@@ -30,14 +30,14 @@ The code uses the following libraries/modules:
 1. Clone the github repo.
 
 ```` 
-$ git clone link-of-repo
+$ git clone https://github.com/aashrita-chemakura/PathPlanning_Project3_Phase2.git
 ````
 
 ## 4. Running Part One 
 
 To run part one, navigate to part one and run 
 ```` 
-$ python3 filename.py
+$ python3 pro3p2_a_star_jayasuriya_Aashrita.py
 ````
 After the determined path is found, a opencv window will pop up with the map and then the explored nodes and finally the backtracked path. 
 ## 5. Running Part Two 
