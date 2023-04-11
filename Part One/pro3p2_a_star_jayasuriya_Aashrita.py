@@ -1,6 +1,5 @@
 
-# GITHUB LINK - https://github.com/aashrita-chemakura/ENPM661_Project3_Phase2
-
+# GITHUB LINK - https://github.com/aashrita-chemakura/PathPlanning_Project3_Phase2
 # DONE BY 
 # Jayasuriya Suresh
 # Aashrita Chemakura
