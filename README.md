@@ -39,7 +39,26 @@ To run part one, navigate to part one and run
 $ python3 filename.py
 ````
 After the determined path is found, a opencv window will pop up with the map and then the explored nodes and finally the backtracked path. 
+## 5. Running Part Two 
+* This part utilizes ROS.
+* Copy the ROS package into the src folder, with the prior assumption a Catkin Workspace has been made and the user has installed the necessary turtlebot packages.
+* Run catkin_make after going to the root of the ws. 
+```` 
+$ cd .. 
+$ catkin_make
+````
+* The launch file needs to be run to launch gazebo . 
+```` 
+$ roslaunch a_star_3d project.launch
+````
+* Afterwards , run the python file to get the output. 
+```` 
+$ python3 prog.py
+````
+* The code asks for inputs similar to part one. The test cases have been described in the following section.
 
+* After the input has been entered, the path is found and displayed on a 2D Map. 
+* Now the output will be run in gazebo in which the bot follows the determined path. 
 ## Test Cases 
 
 ### Test Case 1:
