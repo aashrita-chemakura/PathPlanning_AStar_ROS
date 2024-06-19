@@ -1,4 +1,4 @@
-# Path Planning Project 3: A-Star Algorithm in Gazebo using ROS
+# Projest 3 Phase 2: A-Star Algorithm in Gazebo using ROS
 
 ## Authors
 
